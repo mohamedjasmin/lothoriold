@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+
+.navbar {
+  padding: .8rem;
+}
+
+.navbar-nav li {
+  padding-right: 1.4rem;
+}
+
+.nav-link {
+  font-size: 1.1em !important;
+}
+
+.carousel-inner img {
+  width: 1005;
+  height: 100%;
+}
+
+.carousel-caption {
+  position: aboslute;
+  top: 45%;
+  transform: translateY(-50%);
+}
+
+.carousel-caption h1 {
+  font-size: 500%;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 15px #000;
+}
+
+.carousel-caption h3 {
+  font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px #000;
+  padding-bottom: 5px;
+}
+
+.btn-warning:hover {
+  background-color: #a59b27;
+}
+
+.social a {
+  font-size: 4.5em;
+  padding-left: 3rem;
+}
+
+.fa-youtube {
+  color: #bb0000;
+}
+
+.fa-twitter {
+  color: #00aced;
+}
+
+.fa-instagram {
+  color: #517fa8;
+}
+
+.fa-youtube:hover, .fa-twitter:hover, .fa-instagram:hover {
+  color: #d5d5d5;
+}
+
+footer {
+  background-color: : #353A40;
+}
+
+
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+
+  }
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+
+}
+
+
+/*---Firefox Bug Fix --*/
+.carousel-item {
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+
+
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
