@@ -10,7 +10,7 @@ published: true
 
 This is how you create a blog post
 
-![guide](img/guide.png){:class="img-responsive"}
+![guide](/img/guide.png){:class="img-responsive"}
 
 
 {% if page.comments %} 
