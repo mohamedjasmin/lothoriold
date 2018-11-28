@@ -10,7 +10,7 @@ published: true
 
 This is how you create a blog post
 
-![guide](https://github.com/mohamedjasmin/lothori/blob/master/img/guide.png){:class="img-responsive"}
+<img src="{{https://mohamedjasmin.github.io/lothori}}/img/guide.png">
 ![Picture description](/img/guide.png){: .center-image }
 
 
