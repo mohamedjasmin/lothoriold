@@ -10,7 +10,8 @@ published: true
 
 This is how you create a blog post
 
-![guide](/img/guide.png){:class="img-responsive"}
+<img src="{{/lothori}}/img/guide.png">
+![Picture description](/lothori/img/guide.png){: .center-image }
 
 
 {% if page.comments %} 
