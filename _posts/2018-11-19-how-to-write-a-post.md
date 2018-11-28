@@ -10,8 +10,8 @@ published: true
 
 This is how you create a blog post
 
-<img src="{{https://mohamedjasmin.github.io/lothori}}/img/guide.png">
-![Picture description](/img/guide.png){: .center-image }
+<img src="{{/lothori}}/img/guide.png">
+![Picture description](/lothori/img/guide.png){: .center-image }
 
 
 {% if page.comments %} 
