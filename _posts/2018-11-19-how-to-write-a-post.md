@@ -10,7 +10,7 @@ published: true
 
 This is how you create a blog post
 
-<img src="{{/lothori}}/img/guide.png">
+![Guide](/lothori/img/guide.png){: .center-image }
 
 
 
