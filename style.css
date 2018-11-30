@@ -5,7 +5,10 @@ html, body {
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color: #222;
-  margin: 25px;
+}
+
+body {
+margin: 25px;
 }
 
 .navbar {
