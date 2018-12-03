@@ -2,7 +2,7 @@
 layout: wrapper
 title: ABOUT LOTHORI
 url: https://mohamedjasmin.github.io/lothori
-permalink: /whylothori
+permalink: /lothori
 ---
 
 
