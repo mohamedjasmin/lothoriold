@@ -59,7 +59,7 @@ html, body {
 
 .center-justified{
 text-align: justify;
-  margin: 8em;
+  margin: auto;
   width: 20em;
 }
 
