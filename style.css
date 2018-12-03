@@ -55,8 +55,11 @@ html, body {
 .body-content {
 }
 
-.center{
-text-align: center;}
+.center-justified{
+text-align: justify;
+  margin: 0 auto;
+  width: 30em;
+}
 
 
 
