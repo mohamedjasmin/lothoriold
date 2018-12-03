@@ -47,6 +47,13 @@ html, body {
   background-color: #a59b27;
 }
 
+.post-content{
+margin: 10px;
+}
+
+
+
+
 .social a {
   font-size: 4.5em;
   padding-left: 3rem;
