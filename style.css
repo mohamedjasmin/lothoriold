@@ -47,8 +47,10 @@ html, body {
   background-color: #a59b27;
 }
 
+/*WRAPPEER CONTENT*/
+
 .post-content{
-margin: 10px;
+margin: 50px;
 }
 
 
