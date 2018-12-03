@@ -53,7 +53,9 @@ html, body {
 margin: 50px;
 }
 
-
+body-content {
+margin: 50px;
+}
 
 
 .social a {
