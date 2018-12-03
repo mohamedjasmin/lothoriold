@@ -18,11 +18,11 @@ permalink: /blog
             {% endif %}
         {% endunless %}
 
-    {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
-    {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+    {% capture month %}{{ post.date | date: '%m' }}{% endcapture %}
+    {% capture nmonth %}{{ post.next.date | date: '%m' }}{% endcapture %}
     {% if month != nmonth %}
     {% if forloop.index != 1 %}</ul>{% endif %}
-        <h2>{{ post.date | date: '%B %Y' }}</h2><ul>
+        <h2>{{ post.date | date: '%B' }}</h2><ul>
     {% endif %}
 
 
