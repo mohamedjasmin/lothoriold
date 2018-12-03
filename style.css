@@ -60,13 +60,9 @@ html, body {
 .center-justified{
 text-align: justify;
   margin: auto;
-  width: 20em;
+  width: auto;
 }
 
-iframe {
-width: 100% !important;
-height: auto !important;
-}
 
 
 
