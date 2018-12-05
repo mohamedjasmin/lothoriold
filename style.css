@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 
 html, body {
-  height: 100%;
-  width: 100%;
   max-width: 100%;
   overflow-x: hidden;
   font-family: 'Poppins', sans-serif;
@@ -10,8 +8,8 @@ html, body {
 }
 
 body {
- padding-left:25px;
- padding-right:25px;
+height: 100%;
+width: 100%;
 }
 
 .navbar {
