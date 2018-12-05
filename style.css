@@ -9,6 +9,11 @@ html, body {
   color: #222;
 }
 
+body {
+max-width: 500px;
+    margin: auto;
+}
+
 .navbar {
   padding: .8rem;
 }
