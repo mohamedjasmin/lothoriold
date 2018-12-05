@@ -30,26 +30,26 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>WhatsApp</td>
-    <td>is one of the resources we as a team used very often. It was a platform on which we arranged meetings, discussed any issues, asked each other for help and communicate.
+    <td>WhatsApp is one of the resources we as a team used very often to arrange meetings, discuss any issues we encountered while working on the assigned tasks and to keep in contact with the group outside university hours.
 </td>
   </tr>
   <tr>
     <td>nTask</td>
-    <td>is the task management platform which we used to allocate tasks to each team member, to keep track of the tasks and the deadlines for each task. It helped us become more productive, reduced the time allotted for setting priorities as well as enabling us to differentiate from the four kinds of individual tasks which are: urgent and important, not urgent but important, urgent and important, and not urgent and not important.
+    <td>A task management platform which we used to allocate tasks to each team member, to keep track of the tasks and the their deadlines. nTask helped us become more productive, reduced the time alloted for setting priorities as well as enabling us to differentiate from the four kinds of individual tasks which are: urgent and important, not urgent but important, urgent and important, and not urgent and not important.
 </td>
   </tr>
   <tr>
     <td>Discord</td>
-    <td>Used to share resources such as tutorials, to screen share so that team members can work on a task together
+    <td>We used and are still using discord to share resources such as tutorials and screen share so that team members can work on a task together and make progress.
 </td>
   </tr>
   <tr>
     <td>Godot</td>
-    <td>Is a free and open-source game engine which we used to develop Lothori</td>
+    <td>Is a free and open-source game engine which we used to develop Lothori.</td>
   </tr>
   <tr>
     <td>Atom & Jekyll</td>
-    <td>used to create our website</td>
+    <td>We used Atom and Jekyll to create a static website with blogging feature integrated. </td>
   </tr>
   <tr>
     <td>GitHub</td>
