@@ -55,13 +55,13 @@ html, body {
 /*WRAPPEER CONTENT*/
 
 .post-content{
- margin-left: 25px;
- margin-right: 25px;
+ padding-left: 25px;
+ padding-right: 25px;
 }
 
 .body-content {
- margin-left: 25px;
- margin-right: 25px;
+ padding-left: 25px;
+ padding-right: 25px;
 }
 
 .center-justified{
