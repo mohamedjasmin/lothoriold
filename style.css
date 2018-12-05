@@ -10,8 +10,8 @@ html, body {
 }
 
 body {
- left-margin:25px;
-  right-margin:25px;
+ padding-left:25px;
+ padding-right:25px;
 }
 
 .navbar {
