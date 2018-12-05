@@ -54,16 +54,6 @@ html, body {
 
 /*WRAPPEER CONTENT*/
 
-.post-content{
- padding-left: 25px;
- padding-right: 25px;
-}
-
-.body-content {
- padding-left: 25px;
- padding-right: 25px;
-}
-
 .center-justified{
 text-align: justify;
 }
