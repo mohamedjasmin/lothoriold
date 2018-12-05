@@ -7,7 +7,7 @@ html, body {
   color: #222;
 }
 
-body {
+.post-content {
 height: 100%;
 width: 100%;
 }
