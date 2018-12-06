@@ -222,6 +222,12 @@ footer {
  .imageGrid .tile {
     width: 50%;
   }
+  
+  .center-justified {
+  margin-left: 25px;
+  margin-right: 25px;
+
+}
 
 }
 
