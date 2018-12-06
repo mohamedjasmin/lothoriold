@@ -177,8 +177,10 @@ footer {
 .carousel-caption h3 {
   font-size: 200%;
 }
-
-
+  
+  
+  .imgGrid .tile {
+    width: 30%;
   }
 
 
@@ -196,6 +198,9 @@ footer {
   font-size: 170%;
 }
 
+   .imgGrid .tile {
+    width: 30%;
+  }
 
 }
 @media (max-width: 576px) {
@@ -213,6 +218,9 @@ footer {
   font-size: 100%;
 }
 
+   .imgGrid .tile {
+    width: 30%;
+  }
 
 }
 
