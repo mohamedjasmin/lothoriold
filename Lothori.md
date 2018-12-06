@@ -9,7 +9,7 @@ permalink: /lothori
 * **Name:** Lothori 
 * **Genre:** Adventure 
 * **Setting:** 5th Century, England
-* **Age Rating:** Suitable for people aged 12 and over
+* **Age Rating:** Suitable for people aged 15 and over
 * **Release date:** No release date yet
 
 <br>
