@@ -5,11 +5,11 @@ url: https://mohamedjasmin.github.io/lothori
 permalink: /lothori
 ---
 
-**ABOUT THIS GAME**
-**Name:** Lothori
-**Genre:** Adventure 
-**Age Rating:** Suitable for people aged 12 and over
-**Release date:** No release date yet
+* **ABOUT THIS GAME** 
+  * **Name:** Lothori 
+  * **Genre:** Adventure 
+  * **Age Rating:** Suitable for people aged 12 and over
+  * **Release date:** No release date yet
 
 You will live as a lumberjack in the 5th century and will help out villagers in need while completing various quests.
 Beware of bandits that hide around every corner!
