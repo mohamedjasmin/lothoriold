@@ -15,8 +15,8 @@ permalink: /lothori
 <br>
 **GAME BACKGROUND**  
 <br>
-Our hero is a traveler, a good samaritan who travels from town to town assisting helpless villagers while completing various quests.
-He works hars as a lumberjack to ensure his family are well looked after.
+Our hero is a traveler, a good samaritan who travels from town to town assisting helpless villagers while completing various quests.<br>
+He works hars as a lumberjack to ensure his family are well looked after.<br>
 Beware of bandits that hide around every corner!
 
 
