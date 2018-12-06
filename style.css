@@ -8,8 +8,8 @@ html, body {
 }
 
 .center-justified {
-height: 75%;
-width: 75%;
+  margin-left: 30px;
+  margin-right: 30px;
 
 }
 
