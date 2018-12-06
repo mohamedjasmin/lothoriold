@@ -2,7 +2,7 @@
 layout: wrapper
 title:  "Development Diary"
 date:   2018-12-05 12:00:00
-categories: jekyll update
+categories: blog update
 author: by Jalal
 comments: true
 published: true
