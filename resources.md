@@ -56,3 +56,59 @@ tr:nth-child(even) {
     <td>A Git repository hosting service, provides a web based graphical interface. It also provides access control and several collaborations features, helps us developers store and manage our code as well as track and control changes to our code.</td>
   </tr>
 </table>
+
+
+
+
+<!--IMAGE GRID -->
+
+<div class="imgGrid">
+  <div class="tile" style="background-image: url('https://pixfeeds.com/images/desserts/cookies/1280-508793886-chinese-almond-cookies.jpg');">
+    <div class="recipe-title"><h2>Recipe name</h2>
+      <div class="recipe-description">Recipe description</div>
+    </div>
+  </div>
+<div class="tile" style="background-image: url('http://www.onesweetmess.com/wp-content/uploads/2015/09/Cherry-Chocolate-Chip-Muffins-4.jpg');">
+	<div class="recipe-title"><h2>Recipe name</h2>
+		<div class="recipe-description">Recipe description</div>
+	</div>
+</div>
+<div class="tile" style="background-image: url('https://i.pinimg.com/originals/49/0b/1c/490b1cdcbd14ec7542c1f91d540494c3.jpg');">
+	<div class="recipe-title"><h2>Recipe name</h2>
+		<div class="recipe-description">Recipe description</div>
+	</div>
+</div>
+<div class="tile" style="background-image: url('https://i.pinimg.com/originals/9a/22/7e/9a227e0a8374b985335d464d6034bf45.jpg');">
+	<div class="recipe-title"><h2>Recipe name</h2>
+		<div class="recipe-description">Recipe description</div>
+	</div>
+</div>
+<div class="tile" style="background-image: url('http://mybermudez.com/wp-content/uploads/2014/06/indulgums-featured-new.jpg');">
+	<div class="recipe-title"><h2>Recipe name</h2>
+		<div class="recipe-description">Recipe description</div>
+	</div>
+</div>
+<div class="tile" style="background-image: url('http://www.onesweetmess.com/wp-content/uploads/2015/09/Cherry-Chocolate-Chip-Muffins-4.jpg');">
+	<div class="recipe-title"><h2>Recipe name</h2>
+		<div class="recipe-description">Recipe description</div>
+	</div>
+</div>
+<div class="tile" style="background-image: url('http://nehudeem.com/wp-content/uploads/2018/10/shobantor11.jpg');">
+	<div class="recipe-title"><h2>Recipe name</h2>
+		<div class="recipe-description">Recipe description</div>
+	</div>
+</div>
+<div class="tile" style="background-image: url('https://i.pinimg.com/originals/78/26/55/7826554346754d2023583389966532e9.jpg');">
+	<div class="recipe-title"><h2>Recipe name</h2>
+		<div class="recipe-description">Recipe description</div>
+	</div>
+</div>
+<div class="tile" style="background-image: url('https://i.pinimg.com/originals/87/00/30/870030e31ef7351222604ace443fcfb8.jpg');">
+	<div class="recipe-title"><h2>Recipe name</h2>
+		<div class="recipe-description">Recipe description</div>
+	</div>
+</div>
+
+
+
+</div>
