@@ -13,6 +13,10 @@ html, body {
 
 }
 
+.post-content {
+   margin-left: 50px;
+}
+
 .navbar {
   padding: .8rem;
 }
