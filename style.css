@@ -15,8 +15,6 @@ html, body {
 
 .navbar {
   padding: .8rem;
-opacity: 0.5;
-filter: alpha(opacity=50); 
 }
 
 .navbar-nav li {
