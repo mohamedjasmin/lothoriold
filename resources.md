@@ -6,34 +6,34 @@ permalink: /resources
 ---
 
 <div class="imageGrid">
-  <div class="tile" style="background-image: url('https://bit.ly/1tSEfja');">
-    <div class="textWrapper"><h2>Pont de Bir-Hakeim, Paris</h2>
-      <div class="content">The western part of the Pont de Bir-Hakeim seen at night. Buildings of the 16th arrondissement of Paris are visible in the background.</div>
+  <div class="tile" style="background-image: url('https://hindi.gizbot.com/img/2018/04/whatsapp-1522646568.jpg');">
+    <div class="textWrapper"><h2>WhatsApp</h2>
+      <div class="content">One of the resources we as a team used very often to arrange meetings, discuss any issues we encountered while working on the assigned tasks and to keep in contact with the group outside university hours.</div>
     </div>
   </div><!--
 --><div class="tile" style="background-image: url('https://bit.ly/1rXAWHn');">
-  <div class="textWrapper"><h2>Wiesen Viaduct, Switzerland</h2>
-    <div class="content">A RhB Ge 4/4 II with a push–pull train crosses the Wiesen Viaduct between Wiesen and Filisur, Switzerland.</div>
+  <div class="textWrapper"><h2>nTask</h2>
+    <div class="content">A task management platform which we used to allocate tasks to each team member, to keep track of the tasks and the their deadlines.</div>
   </div>
   </div><!--
 --><div class="tile" style="background-image: url('https://bit.ly/1k3JsEi');">
-  <div class="textWrapper"><h2>Office building, Germany</h2>
-    <div class="content">Office building of the LVM Insurance in Munster (Westphalia), Germany.</div>
+  <div class="textWrapper"><h2>Discord</h2>
+    <div class="content">To share resources such as tutorials and screen share so that team members can work on a task together and make progress.</div>
   </div>
   </div><!--
 --><div class="tile" style="background-image: url('https://bit.ly/Ux98xe');">
-  <div class="textWrapper"><h2>Maya Beach, Thailand</h2>
-    <div class="content">Long-tail boats in Maya Beach, Ko Phi Phi Lee, Thailand.</div>
+  <div class="textWrapper"><h2>Godot</h2>
+    <div class="content">Free and open-source game engine which we used to develop Lothori.</div>
   </div>
   </div><!--
 --><div class="tile" style="background-image: url('https://bit.ly/1nR24qx');">
-  <div class="textWrapper"><h2>Chi Minh City, Vietnam.</h2>
-    <div class="content">Night view of Ho Chi Minh City from Bitexco Financial Tower, Vietnam.</div>
+  <div class="textWrapper"><h2>Jekyll & GitHub Pages</h2>
+    <div class="content">Used to create this static website and host it.</div>
   </div>
   </div><!--
 --><div class="tile" style="background-image: url('https://bit.ly/1oAM0tK');">
-  <div class="textWrapper"><h2>Porto City Hall, Portugal</h2>
-    <div class="content"></div>
+  <div class="textWrapper"><h2>GitHub</h2>
+    <div class="content">A Git repository hosting service, provides a web based graphical interface. It also provides access control and several collaborations features, helps us developers store and manage our code as well as track and control changes to our code.</div>
   </div>
   </div>
   
