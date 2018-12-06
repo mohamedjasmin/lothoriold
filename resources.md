@@ -6,7 +6,7 @@ permalink: /resources
 ---
 
 <div class="imageGrid">
-  <div class="tile" style="background-image: url('https://hindi.gizbot.com/img/2018/04/whatsapp-1522646568.jpg');">
+  <div class="tile" style="background-image: url('https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/08/29/11/whatsapp.jpg?w968h681');">
     <div class="textWrapper"><h2>WhatsApp</h2>
       <div class="content">One of the resources we as a team used very often to arrange meetings, discuss any issues we encountered while working on the assigned tasks and to keep in contact with the group outside university hours.</div>
     </div>
