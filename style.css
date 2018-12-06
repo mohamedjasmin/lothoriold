@@ -96,29 +96,29 @@ footer {
 
 
 
-/*IMAGE GRID*/
 
-.imgGrid {
+.imageGrid {
   line-height: 0;
 }
-.imgGrid .tile {
-  width:30%;
+.imageGrid .tile {
+  width:33.33%;
   min-height:20em;
   line-height: 1.2;
   display:inline-block;
   background-size: cover;
   background-position: center center;
+  background-repeat: no-repeat;
   overflow: hidden;
   position: relative;
-
+  
   color:#fff;
-  font-family:'Poppins',sans-serif;
+  font-family:"Verdana",sans-serif;
   text-shadow: 2px 2px 2px #000;
-  cursor: pointer;
+  cursor: pointer; 
   cursor: hand;
 }
 
-.imgGrid .tile:before {
+.imageGrid .tile:before {
   content: '';
   background-color: rgba(15,15,15,0.5);
   display: block;
@@ -128,11 +128,11 @@ footer {
   position: absolute;
 }
 
-.imgGrid .tile:hover:before {
+.imageGrid .tile:hover:before {
   display: none;
 }
 
-.imgGrid .tile .recipe-title {
+.imageGrid .tile .textWrapper {
   text-align: center;
   vertical-align: middle;
   width: 80%;
@@ -143,22 +143,17 @@ footer {
   font-size: .75em;
 }
 
-.imgGrid .tile .recipe-title .recipe-description {
+.imageGrid .tile .textWrapper .content {
   display: none;
 }
 
-.imgGrid .tile:hover .recipe-title .recipe-description {
+.imageGrid .tile:hover .textWrapper .content {
   display: block;
 }
 
-.imgGrid .tile:hover .recipe-title .recipe-description h2 {
+.imageGrid .tile:hover .textWrapper .content h2 {
   margin: 0;
 }
-
-
-
-
-
 
 
 
@@ -177,9 +172,8 @@ footer {
   font-size: 200%;
 }
   
-  
-  .imgGrid .tile {
-    width: 30%;
+ .imageGrid .tile {
+    width: 100%;
   }
 
 
@@ -197,8 +191,8 @@ footer {
   font-size: 170%;
 }
 
-   .imgGrid .tile {
-    width: 100%;
+ .imageGrid .tile {
+    width: 50%;
   }
 
   .center-justified {
@@ -225,8 +219,8 @@ footer {
   font-size: 100%;
 }
 
-   .imgGrid .tile {
-    width: 100%;
+ .imageGrid .tile {
+    width: 50%;
   }
 
 }
