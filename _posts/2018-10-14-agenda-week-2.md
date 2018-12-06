@@ -9,9 +9,11 @@ published: true
 ---
 
 This PDF contains Meeting Agenda for Week 2 (8th October - 14th October)
-![Agenda WEEK 2](https://github.com/mohamedjasmin/lothori/blob/gh-pages/img/Meeting-Agenda%20%5BWEEK%202%5D.pdf)
 
+![Agenda WEEK 2](https://github.com/mohamedjasmin/lothori/blob/master/img/Meeting-Agenda%20%5BWEEK%202%5D.pdf)
 
+test
+[AGENDA](img/cv.pdf)
 
 
 
