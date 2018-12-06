@@ -8,6 +8,5 @@ comments: true
 published: true
 ---
 
-This PDF contains Meeting Agenda for Week 2 (8th October - 14th October) ![AGENDA](
-        pdfcoll/Meeting-Agenda [WEEK 2].pdf
+This PDF contains Meeting Agenda for Week 2 (8th October - 14th October) ![AGENDA](https://github.com/mohamedjasmin/pdfcoll/blob/master/Meeting-Agenda%20%5BWEEK%202%5D.pdf
       )
