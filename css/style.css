@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+
+.center-justified {
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+
+.post-content {
+   margin-left: 50px;
+}
+
+.navbar {
+  padding: .8rem;
+}
+
+.navbar-nav li {
+  padding-right: 1.4rem;
+}
+
+.nav-link {
+  font-size: 1.1em !important;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%;
+}
+
+.carousel-caption {
+  position: aboslute;
+  top: 45%;
+  transform: translateY(-50%);
+}
+
+.carousel-caption h1 {
+  font-size: 500%;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 15px #000;
+}
+
+.carousel-caption h3 {
+  font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px #000;
+  padding-bottom: 5px;
+}
+
+.btn-warning:hover {
+  background-color: #a59b27;
+}
+
+
+
+
+/*WRAPPEER CONTENT*/
+
+.center-justified{
+text-align: justify;
+}
+
+
+
+
+
+
+
+.social a {
+  font-size: 4.5em;
+  padding-left: 3rem;
+}
+
+.fa-youtube {
+  color: #bb0000;
+}
+
+.fa-twitter {
+  color: #00aced;
+}
+
+.fa-instagram {
+  color: #517fa8;
+}
+
+.fa-youtube:hover, .fa-twitter:hover, .fa-instagram:hover {
+  color: #d5d5d5;
+}
+
+footer {
+  background-color: : #353A40;
+}
+
+
+
+
+
+.imageGrid {
+  line-height: 0;
+}
+.imageGrid .tile {
+  width:33.33%;
+  min-height:20em;
+  line-height: 1.2;
+  display:inline-block;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  position: relative;
+  
+  color:#fff;
+  font-family:"Verdana",sans-serif;
+  text-shadow: 2px 2px 2px #000;
+  cursor: pointer; 
+  cursor: hand;
+}
+
+.imageGrid .tile:before {
+  content: '';
+  background-color: rgba(15,15,15,0.5);
+  display: block;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  position: absolute;
+}
+
+.imageGrid .tile:hover:before {
+  display: none;
+}
+
+.imageGrid .tile .textWrapper {
+  text-align: center;
+  vertical-align: middle;
+  width: 80%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: .90em;
+}
+
+.imageGrid .tile .textWrapper .content {
+  display: none;
+}
+
+.imageGrid .tile:hover .textWrapper .content {
+  display: block;
+}
+
+.imageGrid .tile:hover .textWrapper .content h2 {
+  margin: 0;
+}
+
+
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+  
+.carousel-caption {
+  top: 65%;
+}
+
+.carousel-caption h1 {
+  font-size: 500%;
+}
+
+.carousel-caption h3 {
+  font-size: 200%;
+}
+  
+ .imageGrid .tile {
+    width: 50%;
+  }
+
+
+@media (max-width: 768px) {
+
+.carousel-caption {
+  top: 45%;
+}
+
+.carousel-caption h1 {
+  font-size: 300%;
+}
+
+.carousel-caption h3 {
+  font-size: 170%;
+}
+
+ .imageGrid .tile {
+    width: 50%;
+  }
+
+  .center-justified {
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+  
+}
+  
+  
+@media (max-width: 576px) {
+
+
+.carousel-caption {
+  top: 20%;
+}
+
+.carousel-caption h1 {
+  font-size: 200%;
+}
+
+.carousel-caption h3 {
+  font-size: 100%;
+}
+
+ .imageGrid .tile {
+    width: 100%;
+  }
+  
+  .center-justified {
+  margin-left: 25px;
+  margin-right: 25px;
+
+}
+
+}
+  
+  
+  #footer {
+  background-color: #353942;
+  color: white;
+  }
+
+
+/*---Firefox Bug Fix --*/
+.carousel-item {
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+
+
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
