@@ -1,8 +1,8 @@
 ---
 layout: wrapper
-title:  "Welcome to Team 16's Blog!!"
-date:   2018-11-18 04:58:02
-categories: blog update
+title:  "Week 1 Agenda"
+date:   2018-10-08 04:58:02
+categories: meeting update
 author: by Melika
 comments: true
 published: true
