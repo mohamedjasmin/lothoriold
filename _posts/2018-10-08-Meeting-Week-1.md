@@ -21,7 +21,7 @@ Completed:
 
 * Every team member voted to choose the best game idea. Adi's idea was chosen ( Island escape idea).
 
-Things to discuss next:
+To discuss next meeting:
 
 1. To elaborate on the idea and come up with a full storyline for it
 2. To think of the following for the game: Combat, Setting, Character, Audience, Difficulty, Objectives, NPC’s, Perspective, Rules, Feedback, Addiction, Villains. 
