@@ -7,6 +7,13 @@ html, body {
   color: #222;
 }
 
+.content h1 {
+  font-family: 'Playfair Display SC', serif;
+  color: #f9f3f4;
+  font-size: 800%;
+  text-shadow: 3px 3px #098fa8;
+}
+
 .center-justified {
   margin-left: 100px;
   margin-right: 100px;
