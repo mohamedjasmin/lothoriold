@@ -47,14 +47,7 @@ html, body {
   font-size: 1.1em !important;
 }
 
-.carouse-item {
-  height: 100%;
-  width: 100%;
-  margin: auto;
-  background-size: cover;
-  display: table;
-  top: 0;
-}
+
 
 .carousel-inner img {
   width: 100%;
