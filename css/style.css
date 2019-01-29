@@ -62,7 +62,7 @@ html, body {
 }
 -->
 
-.btn-warning {
+.btn {
   font-size: 150%;
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
@@ -71,8 +71,10 @@ html, body {
   padding: 10px 20px;
   border-radius: 50px;
 }
-.btn-warning:hover {
-  background-color: #a59b27;
+
+.btn:hover{
+  color: #156377;
+  border: 2px solid #156377;
 }
 
 
