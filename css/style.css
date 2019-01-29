@@ -61,16 +61,8 @@ html, body {
 }
 
 .carousel-caption h1 {
-  <!--font-size: 500%;
-  text-transform: uppercase;
-  text-shadow: 1px 1px 15px #000;-->
-  
-  font-family: 'Playfair Display SC', serif;
-  color: #f9f3f4;
-  font-size: 800%;
-  text-shadow: 3px 3px #098fa8;
-  
-  text-decoration: none;
+ 
+   text-decoration: none;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
   transition: all 0.5s;
@@ -80,6 +72,13 @@ html, body {
   -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
   -moz-animation: neon1 1.5s ease-in-out infinite alternate;
   animation: neon1 1.5s ease-in-out infinite alternate;
+  
+  font-family: 'Playfair Display SC', serif;
+  color: #f9f3f4;
+  font-size: 800%;
+  text-shadow: 3px 3px #098fa8;
+  
+ 
 }
 
 
