@@ -70,7 +70,7 @@ html, body {
  
 }
 
-.glow {
+.glow:hover {
   font-size: 80px;
   color: #fff;
   text-align: center;
