@@ -5,7 +5,7 @@ date:   2018-10-10 04:58:02
 categories: meeting update
 author: by Jasmin
 comments: true
-published: true
+published: false
 ---
 
 To discuss:
