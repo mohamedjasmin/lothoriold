@@ -1,7 +1,7 @@
 ---
 layout: wrapper
-title:  "Development Diary #6 MVP"
-date:   2019-02-27 12:00:00
+title:  "Development Diary MVP Feedback"
+date:   2019-02-02 12:00:00
 categories: blog update
 author: by Jalal
 comments: true
