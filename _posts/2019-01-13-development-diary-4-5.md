@@ -1,6 +1,6 @@
 ---
 layout: wrapper
-title:  "Development Diary #3"
+title:  "Development Diary #2"
 date:   2019-01-13 12:00:00
 categories: blog update
 author: by Jalal
